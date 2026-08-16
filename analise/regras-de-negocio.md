@@ -66,18 +66,7 @@ Entrevista com a Equipe Financeira, item 3: “Precisamos confirmar os pagamento
 **Impacto:**  
 Afeta os estados da inscrição, o controle de vagas e a atuação da equipe financeira. A abrangência da regra e o significado de “liberação” ainda dependem de DL-11.
 
-## RN-07 — Emissão de certificado após o evento
-
-**Regra:**  
-O certificado do participante somente pode ser emitido depois do evento.
-
-**Fonte:**  
-Entrevista com Participantes, item 4: “Quero conseguir emitir meu certificado depois do evento.”
-
-**Impacto:**  
-Afeta a disponibilização de certificados. Outros critérios de elegibilidade ainda dependem de DL-09.
-
-## RN-08 — Simultaneidade de workshops no mesmo horário
+## RN-07 — Simultaneidade de workshops no mesmo horário
 
 **Regra:**  
 Workshops programados para o mesmo horário ocorrem simultaneamente.
@@ -88,13 +77,13 @@ Entrevista com Organizadores, item 5: “Os workshops que acontecem no mesmo hor
 **Impacto:**  
 Afeta a programação e a decisão sobre permitir ou impedir inscrições de um mesmo participante em workshops conflitantes, ainda pendente em DL-12.
 
-## RN-09 — Acesso do palestrante restrito às próprias atividades
+## RN-08 — Consulta de participantes vinculada às atividades do palestrante
 
 **Regra:**  
-O palestrante consulta participantes inscritos nas atividades atribuídas a ele.
+A consulta realizada pelo palestrante está associada aos participantes inscritos nas atividades vinculadas a ele.
 
 **Fonte:**  
 Entrevista com Palestrantes, item 1: “Gostaria de consultar a lista de participantes inscritos em minhas atividades.”
 
 **Impacto:**  
-Afeta a consulta de participantes e o controle de acesso. Os campos visíveis ainda dependem de DL-23.
+Afeta a consulta de participantes. Os campos visíveis ainda dependem de DL-23.

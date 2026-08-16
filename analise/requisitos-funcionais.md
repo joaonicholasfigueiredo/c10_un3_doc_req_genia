@@ -35,16 +35,16 @@ Stakeholders — Participantes: interesse em “acompanhar inscrições”.
 **Observações:**  
 Os estados e dados apresentados no acompanhamento não foram definidos (DL-03).
 
-## RF-04 — Emitir comprovante de inscrição
+## RF-04 — Disponibilizar comprovante de inscrição
 
 **Descrição:**  
-O sistema deverá emitir um comprovante após a inscrição do participante.
+Caso a necessidade seja validada como obrigatória, o sistema deverá permitir ao participante obter um comprovante após a inscrição.
 
 **Fonte:**  
 Entrevista com Participantes, item 2: “Seria interessante receber um comprovante logo após a inscrição.”
 
 **Observações:**  
-O conteúdo, o formato e o meio de disponibilização ou envio do comprovante não foram definidos (DL-04).
+Trata-se de uma necessidade candidata identificada durante a elicitação. Sua obrigatoriedade e prioridade ainda precisam ser validadas com o stakeholder. O conteúdo, o formato e o meio de disponibilização ou envio do comprovante também não foram definidos (DL-04).
 
 ## RF-05 — Cancelar inscrição
 

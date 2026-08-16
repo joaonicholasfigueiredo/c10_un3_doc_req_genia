@@ -45,16 +45,16 @@ Define o conteúdo e as transições relevantes para RF-03 e para o controle fin
 ## DL-04 — Comprovantes e notificações
 
 **Tipo:**  
-Lacuna
+Dúvida
 
 **Contexto:**  
-É desejado um comprovante logo após a inscrição, mas não foram informados conteúdo, formato, canal de envio nem outras notificações necessárias.
+O participante afirmou que “seria interessante” receber um comprovante logo após a inscrição. A declaração identifica uma necessidade candidata, mas não confirma sua obrigatoriedade ou prioridade. Também não foram informados conteúdo, formato, meio de disponibilização ou envio nem outras notificações necessárias.
 
 **Questão para o stakeholder:**  
-Quais comprovantes e notificações devem existir, com qual conteúdo, em que momento e por quais canais devem ser disponibilizados ou enviados?
+A disponibilização do comprovante deve ser obrigatória e, em caso afirmativo, qual é sua prioridade, seu conteúdo, seu formato e seu meio de entrega? Quais outras notificações, se houver, são necessárias?
 
 **Impacto:**  
-Afeta RF-04 e pode originar outras funcionalidades somente após a definição das notificações requeridas.
+Determina a confirmação e o detalhamento de RF-04 e pode originar outras funcionalidades somente após a definição das notificações requeridas.
 
 ## DL-05 — Prazo para cancelamento
 
@@ -124,7 +124,7 @@ Não foi definido se o certificado será disponibilizado automaticamente depois 
 Quais critérios tornam um participante elegível ao certificado, como a presença será confirmada e como o certificado será gerado e disponibilizado?
 
 **Impacto:**  
-Afeta RF-06 e a aplicação de RN-07, podendo exigir uma funcionalidade de registro de presença que ainda não tem respaldo suficiente para ser especificada.
+Afeta RF-06 e pode exigir uma funcionalidade de registro de presença que ainda não tem respaldo suficiente para ser especificada.
 
 ## DL-10 — Momento da reserva da vaga em inscrição paga
 
@@ -166,7 +166,7 @@ O participante deseja inscrever-se em vários workshops no mesmo dia, e workshop
 O participante pode inscrever-se em atividades com sobreposição de horário; em caso negativo, o sistema deve impedir ou apenas alertar?
 
 **Impacto:**  
-Afeta RF-02, a programação e a aplicação de RN-08.
+Afeta RF-02, a programação e a aplicação de RN-07.
 
 ## DL-13 — Relação entre evento, workshop e atividade
 
@@ -320,7 +320,7 @@ Não foi definido quais informações dos participantes poderão ser visualizada
 Quais campos de cada participante o palestrante poderá visualizar e para qual finalidade?
 
 **Impacto:**  
-Afeta RF-18, RN-09, privacidade e autorização de acesso.
+Afeta RF-18, RN-08, o escopo da consulta e a privacidade dos dados.
 
 ## DL-24 — Segurança e controle de acesso
 
