@@ -300,13 +300,13 @@ As operações compreendidas por “gerenciar participantes” permanecem indefi
 Equipe Financeira
 
 **Quero:**  
-distinguir eventos gratuitos e pagos e confirmar os pagamentos das inscrições sujeitas a essa condição
+confirmar os pagamentos das inscrições sujeitas a essa condição
 
 **Para:**  
 controlar as confirmações exigidas antes da liberação de determinadas inscrições
 
 **Requisitos relacionados:**  
-RF-13, RF-15, RF-16
+RF-13, RF-16
 
 **Regras de negócio relacionadas:**  
 RN-01, RN-03, RN-06
@@ -318,7 +318,7 @@ DL-10, DL-11, DL-19, DL-21, DL-30
 Parcialmente especificada
 
 **Observações:**  
-O processo de confirmação, a abrangência da condição de pagamento, o significado de liberação e o tratamento da vaga não foram definidos. A história não pressupõe que o sistema processe pagamentos.
+O processo de confirmação, as inscrições que dependem dessa confirmação, o significado operacional de liberação e o tratamento da vaga não foram definidos. A história não pressupõe que o sistema processe pagamentos.
 
 ## HU-13 — Controlar reembolsos
 
@@ -404,5 +404,6 @@ As informações dos participantes que poderão ser visualizadas permanecem inde
 
 - Algumas histórias estão parcialmente especificadas porque condições relevantes de seu comportamento permanecem registradas nas DLs existentes.
 - RF-04 e RF-09 permanecem necessidades candidatas e não foram tratados como escopo obrigatório.
+- RF-15 permanece coberto pela análise como característica funcional necessária para distinguir eventos gratuitos de eventos sujeitos a pagamento. Como a elicitação não permite atribuir com segurança a um stakeholder específico a responsabilidade por definir ou manter essa modalidade, RF-15 não possui História de Usuário própria nesta versão; essa decisão poderá ser revista após elicitação complementar.
 - Nenhuma dúvida ou lacuna foi resolvida por suposição.
 - Os Critérios de Aceitação serão tratados em etapa posterior e poderão ser seletivos conforme o nível de definição disponível.
