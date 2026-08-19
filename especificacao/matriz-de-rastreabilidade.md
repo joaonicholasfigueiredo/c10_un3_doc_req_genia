@@ -7,7 +7,7 @@ A matriz utiliza o Requisito Funcional como unidade principal e registra somente
 | RF | Resumo | Fonte/Stakeholder | RN relacionadas | DL relacionadas | HU | CU | CA | Situação |
 |---|---|---|---|---|---|---|---|---|
 | RF-01 | Consultar eventos disponíveis | Participantes — entrevista, item 1 | RN-01 | DL-01 | HU-01 | — | CA-01 | Especificação parcial — cobertura seletiva |
-| RF-02 | Realizar inscrição | Participantes — interesses; entrevista, item 5 | RN-01, RN-03, RN-06, RN-07 | DL-02, DL-10, DL-11, DL-12, DL-13, DL-15, DL-21 | HU-02 | CU-01 | — | Especificação parcial — sem CA completo |
+| RF-02 | Realizar inscrição | Participantes — interesses; entrevista, item 5 | RN-01, RN-03, RN-06, RN-07 | DL-02, DL-10, DL-11, DL-12, DL-13, DL-15, DL-21, DL-30 | HU-02 | CU-01 | — | Especificação parcial — sem CA completo |
 | RF-03 | Acompanhar inscrições próprias | Participantes — interesses | RN-06 | DL-03, DL-11 | HU-03 | — | CA-02 | Especificação parcial — cobertura seletiva |
 | RF-04 | Obter comprovante de inscrição | Participantes — entrevista, item 2 | — | DL-04 | HU-04 | — | — | Candidato — sem CU/CA próprios |
 | RF-05 | Cancelar inscrição | Participantes — interesses e entrevista, item 3; Organizadores — entrevista, item 3 | RN-02, RN-03, RN-05 | DL-05, DL-06, DL-07, DL-08, DL-15, DL-20 | HU-05 | CU-02 | CA-03 | Especificação parcial — cobertura seletiva |
@@ -44,7 +44,7 @@ Nenhum requisito não funcional concreto foi incluído na matriz. Segurança, de
 | DL-13 | Relação entre evento, workshop e atividade | RF-02, RF-07, RF-08, RF-15 | HU-02, HU-07, HU-08; CU-01, CU-04 |
 | DL-15 | Escopo, ocupação e concorrência de vagas | RF-02, RF-05, RF-08, RF-09 | HU-02, HU-05, HU-08, HU-09; CU-01, CU-02 |
 | DL-18 | Escopo do acompanhamento e gerenciamento | RF-11, RF-12 | HU-10, HU-11; CA-04 (limite) |
-| DL-30 | Falhas e integridade entre inscrições, vagas e finanças | RF-08, RF-13, RF-14, RF-16 | HU-08, HU-12, HU-13; CU-01, CU-05, CU-06 |
+| DL-30 | Falhas e integridade entre inscrições, vagas e finanças | RF-02, RF-08, RF-13, RF-14, RF-16 | HU-02, HU-08, HU-12, HU-13; CU-01, CU-05, CU-06 |
 
 ## Análise de cobertura
 
