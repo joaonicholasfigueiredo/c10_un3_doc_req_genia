@@ -107,9 +107,11 @@ DL-17, DL-18
 
 **Critério:**
 
-Dado que um evento possua inscrições  
-Quando o organizador solicitar a quantidade de inscritos desse evento  
-Então o sistema apresentará a quantidade de inscrições associadas ao evento.
+Dado que existam participantes inscritos em um evento
+
+Quando o organizador solicitar a quantidade de inscritos desse evento
+
+Então o sistema apresentará a quantidade de inscritos do evento.
 
 **Limites da validação:**  
 O critério valida a consulta da quantidade, mas não estabelece latência, frequência ou atualização automática para a expressão “tempo real”, pendente em DL-17. Também não valida outras informações ou operações de acompanhamento, pendentes em DL-18.
