@@ -102,4 +102,4 @@ Entre as propostas aproveitadas estão o uso de Histórias de Usuário, Casos de
 └── README.md
 ```
 
-A documentação representa a especificação possível a partir da elicitação fornecida para o exercício. Os pontos que ainda dependem de informações dos stakeholders foram preservados como dúvidas e lacunas e podem orientar eventuais ciclos futuros de elicitação.
+Este repositório consolida os artefatos produzidos a partir da elicitação fornecida para o exercício. As questões que exigem informações adicionais dos stakeholders foram registradas como dúvidas e lacunas, preservando sua rastreabilidade para futuras etapas de análise.
